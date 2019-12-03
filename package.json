@@ -1,0 +1,15 @@
+{
+  "name": "npm-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "narendra",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.13",
+    "underscore": "^1.9.1"
+  }
+}
